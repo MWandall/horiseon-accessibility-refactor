@@ -16,7 +16,7 @@ header {
     color: #ffffff;
 }
 
-header h1{
+h1{
     display: inline-block;
     font-size: 48px;
 }
@@ -119,7 +119,7 @@ section {
 h3 {
     margin-bottom: 10px;
     text-align: center;
-    /* display: block; */
+
 }
 /* added icon to target right imgs  */
 .icon {
