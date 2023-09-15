@@ -33,6 +33,7 @@ Optimize site for search engines and accessibility standards.
 <!-- Provide instructions and examples for use. Include screenshots as needed. -->
 
 <!-- To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax: -->
+link: https://mwandall.github.io/horiseon-accessibility-refactor/ 
 
     
  ![!\[horiseon site screenshot\](image-1.png)](assets/images/image-1.png)
