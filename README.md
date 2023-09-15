@@ -15,7 +15,7 @@ Optimize site for search engines and accessibility standards.
 <!-- - What problem does it solve? -->
 <!-- - What did you learn? -->
 
-## Table of Contents (Optional)
+## Table of Contents 
 
 <!-- If your README is long, add a table of contents to make it easy for users to find what they need. -->
 
